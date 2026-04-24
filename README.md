@@ -1,4 +1,9 @@
 <div align="center">
+    <p align="center">
+        <a href="https://github.com/cybersecurity-dev/awesome-linux-driver-development">
+          <img width="8%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+        </a>
+    </p>
 
 # **`Awesome`** Linux Driver Development Resource [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
