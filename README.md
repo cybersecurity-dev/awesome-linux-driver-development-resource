@@ -26,6 +26,10 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+### Books
+* [Mastering Linux Device Driver Development: Write custom device drivers to support computer peripherals in Linux operating systems](https://www.amazon.com/Mastering-Linux-Device-Driver-Development-ebook/dp/B08M6G6Q4N)
+* [Linux Device Drivers: Where the Kernel Meets the Hardware](https://www.amazon.com/Linux-Device-Drivers-Kernel-Hardware-ebook/dp/B0026OR2XQ/)
+ 
 ##
 
 ### My Other Awesome Lists
